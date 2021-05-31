@@ -1,4 +1,3 @@
-package flightBooking;
 import java.util.LinkedHashSet;
 import java.util.Random;
 import java.util.Scanner;
